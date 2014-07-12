@@ -2,4 +2,6 @@
 !*.py
 !.idea
 target/
-
+!.proj
+!*.r
+!*.R
